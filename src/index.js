@@ -23,7 +23,7 @@ function onAssetsLoaded () {
 		],
 		spinTime: 3,
 		numbers: [1, 1, 1, 1, 1, 1, 3, 3, 3, 3, 5, 5],
-		balance: 5,
+		balance: 200,
 		bet: 5
 	});
 	wheel.createGame();
